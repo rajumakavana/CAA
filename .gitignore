@@ -1,0 +1,13 @@
+
+/admin/assets/img
+/vendor/
+/admin/photo
+/admin/Database
+/player/img
+/coach/img
+/img/
+/img_up/
+*logo_intro.mp4
+*logo.mp4
+*.gif
+*.mp4
